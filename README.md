@@ -1,3 +1,1 @@
-"# pptpTraffic" 
-** PPTP,L2TP流量监视
-
+ PPTP,L2TP流量监控
